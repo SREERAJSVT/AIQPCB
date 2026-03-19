@@ -1,0 +1,21 @@
+Most HATs and GPIO circuits designed for Pi 4 will work directly on Pi 5.
+
+✔ Standard Raspberry Pi 40-Pin Layout
+
+3.3V: Pin 1, 17
+
+5V: Pin 2, 4
+
+GND: Pin 6, 9, 14, 20, 25, 30, 34, 39
+
+I2C:
+
+SDA → GPIO2 (Pin 3)
+
+SCL → GPIO3 (Pin 5)
+
+UART:
+
+TX → GPIO14 (Pin 8)
+
+RX → GPIO15 (Pin 10)
