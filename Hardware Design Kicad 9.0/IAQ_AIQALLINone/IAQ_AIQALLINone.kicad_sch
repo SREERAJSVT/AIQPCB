@@ -4104,7 +4104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RASPBERRY_PI_PICO_W:MODULE_RASPBERRY_PI_PICO_W"
+		(property "Footprint" "Module:RaspberryPi_Pico_W_SMD_HandSolder"
 			(at 825.5 193.04 0)
 			(effects
 				(font
